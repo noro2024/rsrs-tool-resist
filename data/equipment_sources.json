@@ -1,0 +1,4096 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "equipment_uid": "eq000001",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "01_星辰のローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000002",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "02_水波の魔導衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000003",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "03_鳳炎の魔導衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000004",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "04_ヒドラレザー_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000005",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "05_星辰の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000006",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "06_スプリガンスーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000007",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "07_聖王の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000008",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "08_ゴールデンローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000009",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "09_タイタンスーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000010",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "10_漆黒の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000011",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "11_げんじのよろい_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000012",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "12_ロアーヌの銀鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000013",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "13_パワードスーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000014",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "14_ガンナースーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000015",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "15_ピンクコスチューム_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000016",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "16_アドベンチャーコート_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000017",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "17_太陽のローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000018",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "18_魔性のローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000019",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "19_ヒーローアーマー_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000020",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "20_ロブスターメイル_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000021",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "21_死の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000022",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "22_幻想のローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000023",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "23_黒のガラドリエル_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000024",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "24_亡王の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000025",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "25_トラベラースーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000026",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "26_佐賀のはんてん_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000027",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "27_きょうふのローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000028",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "28_文化祭コーデ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000029",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "29_燦炎のコート_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000030",
+      "method": "game_video",
+      "source_file": "rs_01.mp4",
+      "screenshots": [
+        "30_水明のドレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000031",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "31_英雄の銀鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000032",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "32_巨神の胸甲_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000033",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "33_アバロンの聖衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000034",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "34_希望の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000035",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "35_騙名の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000036",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "36_武神の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000037",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "37_宵闇のローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000038",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "38_竹崎カニメイル_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000039",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "39_紫黒の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000040",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "40_語り部の装束_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000041",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "41_炎雷の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000042",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "42_剣客の装束_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000043",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "43_光纏の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000044",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "44_闇纏のローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000045",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "45_暁光の神秘鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000046",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "46_漁師の装束_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000047",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "47_トリックローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000048",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "48_赤甲の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000049",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "49_魅惑のローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000050",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "50_エンペラーアーマー_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000051",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "51_龍舞ノ御衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000052",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "52_ガーラルアーマー_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000053",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "53_ドラゴンアーマー_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000054",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "54_ジェスタードレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000055",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "55_ジェードメイル_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000056",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "56_ダイナマイトスーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000057",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "57_丹朱のローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000058",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "58_剛鋼の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000059",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "59_ヴィオーラドレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000060",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "60_デスメイドドレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000061",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "61_竜鱗の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000062",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "62_光冥の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000063",
+      "method": "game_video",
+      "source_file": "rs_02.mp4",
+      "screenshots": [
+        "63_パワードギア_装備詳細.png",
+        "IMG_3522.PNG",
+        "IMG_3521.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "name": {
+          "file": "IMG_3522.PNG",
+          "screen": "equipment_status",
+          "confirmed_text": "軽減(全) 11%"
+        },
+        "description": {
+          "file": "IMG_3521.PNG",
+          "screen": "ability_detail",
+          "confirmed_text": "常時 被ダメージを11%軽減する"
+        }
+      }
+    },
+    {
+      "equipment_uid": "eq000064",
+      "method": "game_video",
+      "source_file": "rs_03.mp4",
+      "screenshots": [
+        "64_ノワールメイル_装備詳細.png",
+        "64_ノワールメイル_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "name": {
+          "file": "64_ノワールメイル_装備詳細.png",
+          "screen": "equipment_status",
+          "confirmed_text": "軽減(陰)+ 24%"
+        },
+        "description": {
+          "file": "64_ノワールメイル_アビリティ詳細.png",
+          "screen": "ability_detail",
+          "confirmed_text": "陰属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+        }
+      }
+    },
+    {
+      "equipment_uid": "eq000065",
+      "method": "game_video",
+      "source_file": "rs_03.mp4",
+      "screenshots": [
+        "65_炎獣の革_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000066",
+      "method": "game_video",
+      "source_file": "rs_03.mp4",
+      "screenshots": [
+        "66_朱鳥の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000067",
+      "method": "game_video",
+      "source_file": "rs_03.mp4",
+      "screenshots": [
+        "67_風斬りの鎧_装備詳細.png",
+        "67_風斬りの鎧_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "name": {
+          "file": "67_風斬りの鎧_装備詳細.png",
+          "screen": "equipment_status",
+          "confirmed_text": "軽減(斬)+ 24%"
+        },
+        "description": {
+          "file": "67_風斬りの鎧_アビリティ詳細.png",
+          "screen": "ability_detail",
+          "confirmed_text": "斬属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+        }
+      }
+    },
+    {
+      "equipment_uid": "eq000068",
+      "method": "game_video",
+      "source_file": "rs_04.mp4",
+      "screenshots": [
+        "68_雷滅の鎧_装備詳細.png",
+        "68_雷滅の鎧_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "68_雷滅の鎧_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "軽減(雷)+ 24%"
+            },
+            "description": {
+              "file": "68_雷滅の鎧_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "雷属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "68_雷滅の鎧_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "斬属性攻撃+ 5%"
+            },
+            "description": {
+              "file": "68_雷滅の鎧_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "斬属性を含む攻撃時 敵に与えるダメージが5%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000069",
+      "method": "game_video",
+      "source_file": "rs_04.mp4",
+      "screenshots": [
+        "69_ホリデードレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000070",
+      "method": "game_video",
+      "source_file": "rs_04.mp4",
+      "screenshots": [
+        "70_水面のローブ_装備詳細.png",
+        "70_水面のローブ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "70_水面のローブ_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "軽減(熱)+ 24%"
+            },
+            "description": {
+              "file": "70_水面のローブ_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "熱属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "70_水面のローブ_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "冷属性攻撃+ 5%"
+            },
+            "description": {
+              "file": "70_水面のローブ_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "冷属性を含む攻撃時 敵に与えるダメージが5%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000071",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "71_従士のスーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000072",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "72_天道の法衣_装備詳細.png",
+        "72_天道の法衣_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "72_天道の法衣_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "軽減(陰)+ 24%"
+            },
+            "description": {
+              "file": "72_天道の法衣_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "陰属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "72_天道の法衣_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "陽属性攻撃+ 5%"
+            },
+            "description": {
+              "file": "72_天道の法衣_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "陽属性を含む攻撃時 敵に与えるダメージが5%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000073",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "73_死のローブ_装備詳細.png",
+        "73_死のローブ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "73_死のローブ_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "軽減(全) 10%"
+            },
+            "description": {
+              "file": "73_死のローブ_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "常時 被ダメージを10%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "73_死のローブ_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "威力+ 3%"
+            },
+            "description": {
+              "file": "73_死のローブ_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "常時 敵に与えるダメージが3%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000074",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "74_ロビンボーイスーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000075",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "75_武者の甲冑_装備詳細.png",
+        "75_武者の甲冑_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "75_武者の甲冑_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "軽減(斬)+ 24%"
+            },
+            "description": {
+              "file": "75_武者の甲冑_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "斬属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "75_武者の甲冑_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "陰属性攻撃+ 5%"
+            },
+            "description": {
+              "file": "75_武者の甲冑_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "陰属性を含む攻撃時 敵に与えるダメージが5%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000076",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "76_熱砂の装束_装備詳細.png",
+        "76_熱砂の装束_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "76_熱砂の装束_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "軽減(陽)+ 24%"
+            },
+            "description": {
+              "file": "76_熱砂の装束_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "陽属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "76_熱砂の装束_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "熱属性攻撃+ 5%"
+            },
+            "description": {
+              "file": "76_熱砂の装束_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "熱属性を含む攻撃時 敵に与えるダメージが5%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000077",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "77_クグツ使いの装衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000078",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "78_雷鱗の装具_装備詳細.png",
+        "78_雷鱗の装具_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "78_雷鱗の装具_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "軽減(冷)+ 24%"
+            },
+            "description": {
+              "file": "78_雷鱗の装具_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "冷属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "78_雷鱗の装具_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "雷属性攻撃+ 5%"
+            },
+            "description": {
+              "file": "78_雷鱗の装具_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "雷属性を含む攻撃時 敵に与えるダメージが5%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000079",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "79_黒紅の術衣_装備詳細.png",
+        "79_黒紅の術衣_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "79_黒紅の術衣_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "軽減(陰)+ 24%"
+            },
+            "description": {
+              "file": "79_黒紅の術衣_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "陰属性を含む攻撃を受けた時 被ダメージが24%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "79_黒紅の術衣_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "味方全体 威力+ 3%"
+            },
+            "description": {
+              "file": "79_黒紅の術衣_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "味方全体の敵に与えるダメージが3%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000080",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "80_霜牙の鎧_装備詳細.png",
+        "80_霜牙の鎧_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "80_霜牙の鎧_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "斬属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "80_霜牙の鎧_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "斬属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000081",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "81_不知火の着物_装備詳細.png",
+        "81_不知火の着物_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "81_不知火の着物_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "熱属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "81_不知火の着物_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "熱属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000082",
+      "method": "game_video",
+      "source_file": "rs_05.mp4",
+      "screenshots": [
+        "82_獅子の黒鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000083",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "83_イカした着ぐるみ_装備詳細.png",
+        "83_イカした着ぐるみ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "83_イカした着ぐるみ_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "突属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "83_イカした着ぐるみ_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "突属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000084",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "84_氷雪のケープ_装備詳細.png",
+        "84_氷雪のケープ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "84_氷雪のケープ_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "冷属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "84_氷雪のケープ_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "冷属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000085",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "85_軍団長の紅鎧_装備詳細.png",
+        "85_軍団長の紅鎧_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "85_軍団長の紅鎧_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "陽属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "85_軍団長の紅鎧_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "陽属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000086",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "86_刃棘の鋼鎧_装備詳細.png",
+        "86_刃棘の鋼鎧_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "86_刃棘の鋼鎧_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "斬属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "86_刃棘の鋼鎧_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "斬属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          },
+          {
+            "name": {
+              "file": "86_刃棘の鋼鎧_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "突属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "86_刃棘の鋼鎧_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "突属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000087",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "87_トナカイコート_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000088",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "88_ファンキージャケット_装備詳細.png",
+        "88_ファンキージャケット_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "88_ファンキージャケット_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "打属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "88_ファンキージャケット_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "打属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000089",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "89_キュートなメイド服_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000090",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "90_常闇の帷_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000091",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "91_勇盾の鎧_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000092",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "92_ハイボルテージアーマー_装備詳細.png",
+        "92_ハイボルテージアーマー_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "92_ハイボルテージアーマー_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "雷属性攻撃+ 20%"
+            },
+            "description": {
+              "file": "92_ハイボルテージアーマー_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "雷属性を含む攻撃時 敵に与えるダメージが20%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000093",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "93_悪しき皇子の鎧_装備詳細.png",
+        "93_悪しき皇子の鎧_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "93_悪しき皇子の鎧_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "厄の烙印 75%"
+            },
+            "description": {
+              "file": "93_悪しき皇子の鎧_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "陰属性を含む攻撃時 敵に与えるダメージが75%上昇する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000094",
+      "method": "game_video",
+      "source_file": "rs_06.mp4",
+      "screenshots": [
+        "94_ファントム・ロゼ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18"
+    },
+    {
+      "equipment_uid": "eq000095",
+      "method": "game_video",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "095_ハルモニアスーツ_装備詳細.png",
+        "095_ハルモニアスーツ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "095_ハルモニアスーツ_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "堅牢の刻印・弐 20%"
+            },
+            "description": {
+              "file": "095_ハルモニアスーツ_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "被ダメージを20%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "095_ハルモニアスーツ_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "鈍足の刻印・肆"
+            },
+            "description": {
+              "file": "095_ハルモニアスーツ_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "[バトル開始時] 自身に「行動順補正低下」（効果大/効果バトル中永続）を付与する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000096",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「GBSaGa」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000097",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「RS1」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000098",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「RS2」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000099",
+      "method": "game_video_series_variant",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_RS3_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "RS3の装備画面と、同一仕様のSF2詳細画面・シリーズ一覧を基準にシリーズ表記をRS3へ対応"
+    },
+    {
+      "equipment_uid": "eq000100",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「SF1」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000101",
+      "method": "game_video",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "名将の鎧_SF2_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "守護の刻印(SF2) 15%"
+            },
+            "description": {
+              "file": "名将の鎧_SF2_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "シリーズが「SF2」であるキャラクターの場合、被ダメージを15%軽減する ※シリーズ「その他」のキャラクターは対象外"
+            }
+          },
+          {
+            "name": {
+              "file": "名将の鎧_SF2_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "守護の緑(SF2) 10%"
+            },
+            "description": {
+              "file": "名将の鎧_SF2_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "シリーズが「SF2」であるキャラクターが装備している場合 シリーズが「SF2」である味方全体の被ダメージを10%軽減する ※シリーズ「その他」のキャラクターは対象外"
+            }
+          },
+          {
+            "name": {
+              "file": "名将の鎧_SF2_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "攻勢の緑(SF2) 15%"
+            },
+            "description": {
+              "file": "名将の鎧_SF2_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "シリーズが「SF2」であるキャラクターが装備している場合 シリーズが「SF2」である味方全体の敵に与えるダメージが15%上昇する ※シリーズ「その他」のキャラクターは対象外"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000102",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「US」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000103",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「ES」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000104",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「IS」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000105",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「SSG」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000106",
+      "method": "game_screenshot_series_variant",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SaGaRS&その他_装備詳細.png",
+        "名将の鎧_SaGaRS&その他_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "名将の鎧_SaGaRS&その他_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "守護の刻印(SaGaRS&その他) 15%"
+            },
+            "description": {
+              "file": "名将の鎧_SaGaRS&その他_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "シリーズが「SaGaRS」または「その他」であるキャラクターの場合、被ダメージを15%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "名将の鎧_SaGaRS&その他_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "守護の緑(SaGaRS&その他) 10%"
+            },
+            "description": {
+              "file": "名将の鎧_SaGaRS&その他_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "シリーズが「SaGaRS」または「その他」であるキャラクターが装備している場合 シリーズが「SaGaRS」または「その他」である味方全体の被ダメージを10%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "名将の鎧_SaGaRS&その他_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "攻勢の緑(SaGaRS&その他) 15%"
+            },
+            "description": {
+              "file": "名将の鎧_SaGaRS&その他_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "シリーズが「SaGaRS」または「その他」であるキャラクターが装備している場合 シリーズが「SaGaRS」または「その他」である味方全体の敵に与えるダメージが15%上昇する"
+            }
+          }
+        ]
+      },
+      "note": "シリーズ一覧とSaGaRS&その他の実画面を使用"
+    },
+    {
+      "equipment_uid": "eq000107",
+      "method": "series_variant_from_game_screen",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "名将の鎧_シリーズ一覧.jpg",
+        "名将の鎧_SF2_装備詳細.png",
+        "名将の鎧_SF2_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "note": "ユーザー指定によりシリーズ一覧の「SaGaEB」用に独立IDを作成。数値・アビリティ構造は名将の鎧の共通仕様、シリーズ表記のみ対応"
+    },
+    {
+      "equipment_uid": "eq000108",
+      "method": "game_video",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "108_覚醒の覇衣_装備詳細.png",
+        "108_覚醒の覇衣_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "108_覚醒の覇衣_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "四元の堅守 15%"
+            },
+            "description": {
+              "file": "108_覚醒の覇衣_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "被ダメージを15%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "108_覚醒の覇衣_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "四元の猛攻 40%"
+            },
+            "description": {
+              "file": "108_覚醒の覇衣_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "敵に与えるダメージが40%上昇する"
+            }
+          },
+          {
+            "name": {
+              "file": "108_覚醒の覇衣_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "四元の気鋭 +50"
+            },
+            "description": {
+              "file": "108_覚醒の覇衣_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を50上昇させる"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000109",
+      "method": "game_video",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "109_ロトのよろい_装備詳細.png",
+        "109_ロトのよろい_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "109_ロトのよろい_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "ロトの守り"
+            },
+            "description": {
+              "file": "109_ロトのよろい_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "常時 被ダメージを10%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "109_ロトのよろい_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "勇者の歩み"
+            },
+            "description": {
+              "file": "109_ロトのよろい_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "[ターン終了時] 自身のHPを回復する(効果極小)"
+            }
+          },
+          {
+            "name": {
+              "file": "109_ロトのよろい_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "歴戦の鎧"
+            },
+            "description": {
+              "file": "109_ロトのよろい_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "[ターン終了時] 自身の毒状態を解除する"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000110",
+      "method": "game_video",
+      "source_file": "rs_07.mp4",
+      "screenshots": [
+        "110_SPIDER-001_装備詳細.png",
+        "110_SPIDER-001_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "ability_evidence": {
+        "abilities": [
+          {
+            "name": {
+              "file": "110_SPIDER-001_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "堅牢の刻印・弐 20%"
+            },
+            "description": {
+              "file": "110_SPIDER-001_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "被ダメージを20%軽減する"
+            }
+          },
+          {
+            "name": {
+              "file": "110_SPIDER-001_装備詳細.png",
+              "screen": "equipment_status",
+              "confirmed_text": "歴戦の銘印(SF1)"
+            },
+            "description": {
+              "file": "110_SPIDER-001_アビリティ詳細.png",
+              "screen": "ability_detail",
+              "confirmed_text": "シリーズが「SF1」のキャラクターが装備している場合 自身の敵に与えるダメージが50%上昇する ※シリーズ「その他」のキャラクターは対象外"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "equipment_uid": "eq000111",
+      "method": "screenshot",
+      "source_file": "20190905122938.jpg",
+      "screenshots": [
+        "20190905122938.jpg"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "添付画像から直接読み取り。アビリティ欄は画像に表示されていないため、外部補完なし。"
+    },
+    {
+      "equipment_uid": "eq000112",
+      "method": "video",
+      "source_file": "rs_08.mp4",
+      "screenshots": [
+        "112_ゴールデンローブSSS_装備詳細.png",
+        "112_ゴールデンローブSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。超進化SSS装備のため装備名末尾にSSSを付与。"
+    },
+    {
+      "equipment_uid": "eq000113",
+      "method": "video",
+      "source_file": "rs_08.mp4",
+      "screenshots": [
+        "113_聖王の鎧SSS_装備詳細.png",
+        "113_聖王の鎧SSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。超進化SSS装備のため装備名末尾にSSSを付与。"
+    },
+    {
+      "equipment_uid": "eq000114",
+      "method": "video",
+      "source_file": "rs_08.mp4",
+      "screenshots": [
+        "114_ヒドラレザーSSS_装備詳細.png",
+        "114_ヒドラレザーSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。超進化SSS装備のため装備名末尾にSSSを付与。"
+    },
+    {
+      "equipment_uid": "eq000115",
+      "method": "video",
+      "source_file": "rs_08.mp4",
+      "screenshots": [
+        "115_鳳炎の魔導衣SSS_装備詳細.png",
+        "115_鳳炎の魔導衣SSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。超進化SSS装備のため装備名末尾にSSSを付与。"
+    },
+    {
+      "equipment_uid": "eq000116",
+      "method": "video",
+      "source_file": "rs_08.mp4",
+      "screenshots": [
+        "116_水波の魔導衣SSS_装備詳細.png",
+        "116_水波の魔導衣SSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。超進化SSS装備のため装備名末尾にSSSを付与。"
+    },
+    {
+      "equipment_uid": "eq000117",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000117_ヒドラブーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000118",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000118_サンタ帽_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000119",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000119_聖王の小手_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000120",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000120_丑柄の浴衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000121",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000121_ねじりヒドラ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000122",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000122_マスタリーグラブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000123",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000123_丑下駄_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000124",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000124_サガ魂Tシャツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000125",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000125_神威のブーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000126",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000126_コスミックパーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000127",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000127_水波のドレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000128",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000128_鳳炎のケープ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000129",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000129_アメイジングバングル_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000130",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000130_アライのメット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000131",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000131_こうめいのくつ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000132",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000132_げんじのこて_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000133",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000133_げんじのかぶと_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000134",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000134_スカルプロテクター_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000135",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000135_混沌の帽子_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000136",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000136_クイックシルバー_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000137",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000137_竹崎カニメット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000138",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000138_佐賀県Tシャツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000139",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000139_煌雷の手袋_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000140",
+      "method": "video",
+      "source_file": "rs_09.mp4",
+      "screenshots": [
+        "000140_ワンダーキャップ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。副防具。左側アビリティ欄は聖石または空欄のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000141",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000141_ピンクマスク_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000142",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000142_ラブリードレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000143",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000143_キューティプリム_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000144",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000144_クィーンドレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000145",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000145_聖王のかぶと_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000146",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000146_SaGa FES.Tシャツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000147",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000147_ワイルドグローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000148",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000148_聖王ブーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000149",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000149_チャーミングドレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000150",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000150_ノーブルクロース_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000151",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000151_幻想の靴_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000152",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000152_マジックブーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000153",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000153_風夏の衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000154",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000154_呼子イカの帽子_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000155",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000155_メタルハロウィンハット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000156",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000156_タイタスグリーブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000157",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000157_思い出のバックラー_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000158",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000158_憎悪の纏_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000159",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000159_戦神の栄冠_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000160",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000160_嵐神の長靴_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000161",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000161_美神の手袋_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000162",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000162_聖夜のケープ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000163",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000163_バニーバンド_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000164",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000164_ゾウのはちまき_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000165",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000165_精森のブーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000166",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000166_翠天の衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000167",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000167_マジーナリーグローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000168",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000168_肥前忍者村ノ籠手_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000169",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000169_肥前忍者村ノ頭巾_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000170",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000170_雷纏の服_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000171",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000171_ワイルドブーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000172",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000172_歴戦の小手_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000173",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000173_アシュラの兜_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000174",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000174_ヒートプロテクター_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000175",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000175_剣客の具足_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000176",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000176_銀の手_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000177",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000177_皇帝の黄金兜_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000178",
+      "method": "video",
+      "source_file": "rs_10.mp4",
+      "screenshots": [
+        "000178_竹崎カニアーム_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000179",
+      "method": "screenshot",
+      "source_file": "IMG_3547.PNG / IMG_3548.PNG",
+      "screenshots": [
+        "IMG_3547.PNG",
+        "IMG_3548.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "添付画像ではSaGaRS+版を確認。ユーザー指定によりシリーズ部分を「シリーズ名」に一般化し、装備名を「バトルヴァンブレイス（シリーズ名＋）」、アビリティ名を「シリーズ名＋ 20%」として登録。右側アビリティ「能力+ 5 (全)」は装備固有アビリティ対象外のため未登録。同名装備を最大5個使用できるよう quantity=5。"
+    },
+    {
+      "equipment_uid": "eq000180",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000180_トリックハット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000181",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000181_幽夜の道士服_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000182",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000182_スカルキャプテンハット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000183",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000183_正義の覆面_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000184",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000184_シーフサンダル_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000185",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000185_記念のクラウン_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000186",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000186_セイントキャップ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000187",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000187_菫柄の下駄_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000188",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000188_セイントヴェール_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000189",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000189_虹の水環_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000190",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000190_キューティウェア_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000191",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000191_精霊のかかと_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000192",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000192_ドラグーンヘルム_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000193",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000193_レーダーグローブ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000194",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000194_リズミカルシューズ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000195",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000195_紺碧の騎士服_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000196",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000196_ガーデニングエプロン_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000197",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000197_ラーヴァマスター_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000198",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000198_クグツの道着_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000199",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000199_竜鱗の盾_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000200",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000200_ネローブーツ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000201",
+      "method": "video",
+      "source_file": "rs_11.mp4",
+      "screenshots": [
+        "000201_戦神の腰巻き_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。左側アビリティ欄は空欄または副防具聖石のため abilities は空配列。"
+    },
+    {
+      "equipment_uid": "eq000202",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "202_闇夜の小手_装備詳細.png",
+        "202_闇夜の小手_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000203",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "203_ウィッチハット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000204",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "204_風龍の盾_装備詳細.png",
+        "204_風龍の盾_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000205",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "205_雷斬の靴_装備詳細.png",
+        "205_雷斬の靴_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000206",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "206_氷鬼の小手_装備詳細.png",
+        "206_氷鬼の小手_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000207",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "207_大空の兜_装備詳細.png",
+        "207_大空の兜_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000208",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "208_ロビンボーイマスク_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000209",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "209_般若の兜_装備詳細.png",
+        "209_般若の兜_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000210",
+      "method": "video",
+      "source_file": "rs_12.mp4",
+      "screenshots": [
+        "210_灼熱のフード_装備詳細.png",
+        "210_灼熱のフード_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用。【副防具聖石】は除外し、右側アビリティ欄はDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000211",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_001.png",
+        "f_005.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000212",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_010.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000213",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_013.png",
+        "f_016.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000214",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_019.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000215",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_023.png",
+        "f_026.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000216",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_029.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000217",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_033.png",
+        "f_035.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000218",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_039.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000219",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_041.png",
+        "f_043.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000220",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_046.png",
+        "f_049.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000221",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_054.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000222",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_056.png",
+        "f_058.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000223",
+      "method": "video",
+      "source_file": "rs_13-01.mp4",
+      "screenshots": [
+        "f_060.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000224",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "224_刃棘の手甲_装備詳細.png",
+        "224_刃棘の手甲_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000225",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "225_ジュエリードレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000226",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "226_ストライクグローブ_装備詳細.png",
+        "226_ストライクグローブ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000227",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "227_スウィートローズヒール_装備詳細.png",
+        "227_スウィートローズヒール_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000228",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "228_クリーミーリボンドレス_装備詳細.png",
+        "228_クリーミーリボンドレス_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000229",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "229_蒼麗のベレー帽_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000230",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "230_ケジメのドレス_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000231",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "231_電電雷鼓_装備詳細.png",
+        "231_電電雷鼓_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000232",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "232_悪しき戦神の兜_装備詳細.png",
+        "232_悪しき戦神の兜_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000233",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "233_悪しき聖王のマント_装備詳細.png",
+        "233_悪しき聖王のマント_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000234",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "234_ブライダルハット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000235",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "235_グルームハット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000236",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "236_日輪草のサンダル_装備詳細.png",
+        "236_日輪草のサンダル_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000237",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "237_はにわのお面_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000238",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "238_陰陽師の狩衣_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000239",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "239_スペクタクルハット_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000240",
+      "method": "video",
+      "source_file": "rs_13-02.mp4",
+      "screenshots": [
+        "240_戦神の手甲_装備詳細.png",
+        "240_戦神の手甲_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "分割動画から直接読み取り。左側のみ固有アビリティとして採用し、【副防具聖石】と右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000241",
+      "method": "video",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "241_聖王マント_装備詳細.png",
+        "241_聖王マント_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用し、右側アビリティは除外。 ユーザー指定により装備名を「聖王のマントSSS」に変更。 通常版スクリーンショットで基礎名が「聖王マント」と確認できたため、ユーザーのSSS接尾辞ルールに従い「聖王マントSSS」へ名称修正。"
+    },
+    {
+      "equipment_uid": "eq000242",
+      "method": "video",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "242_エルメスのくつ_装備詳細.png",
+        "242_エルメスのくつ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用し、右側アビリティは除外。 ユーザー指定により装備名を「エルメスのくつSSS」に変更。"
+    },
+    {
+      "equipment_uid": "eq000243",
+      "method": "video",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用し、右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000244",
+      "method": "video",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "244_ロトのたて_装備詳細.png",
+        "244_ロトのたて_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用し、右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000245",
+      "method": "video",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "245_禍ツ盾・アビススクトゥム_装備詳細.png",
+        "245_禍ツ盾・アビススクトゥム_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用し、右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000246",
+      "method": "video",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "246_力秘めし神楽鈴_装備詳細.png",
+        "246_力秘めし神楽鈴_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。装備画面左側のみ固有アビリティとして採用し、右側アビリティは除外。"
+    },
+    {
+      "equipment_uid": "eq000247",
+      "method": "screenshot",
+      "source_file": "IMG_3594.PNG",
+      "screenshots": [
+        "IMG_3594.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "添付スクリーンショットから直接読み取り。左側は【副防具聖石】軽減(全)のため固有アビリティに含めない。右側のスタン耐性+173もDB対象外。"
+    },
+    {
+      "equipment_uid": "eq000248",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「GBSaGa」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000249",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「RS1」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000250",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「RS2」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000251",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「RS3」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000252",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「SF1」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000253",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「US」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000254",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「ES」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000255",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「IS」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000256",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「SSG」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000257",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「SaGaRS&その他」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000258",
+      "method": "series_variant",
+      "source_file": "rs_14.mp4",
+      "screenshots": [
+        "243_英傑の足甲(SF2)_装備詳細.png",
+        "243_英傑の足甲(SF2)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "ユーザー指定により、名将の鎧と同じシリーズ展開として英傑の足甲を登録。SF2版と同一の数値・アビリティ構造を用い、シリーズ表記を「SaGaEB」へ置換。"
+    },
+    {
+      "equipment_uid": "eq000259",
+      "method": "video",
+      "source_file": "rs_15.mp4",
+      "screenshots": [
+        "259_ゾウのはちまきSSS_装備詳細.png",
+        "259_ゾウのはちまきSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。動画上でSSS装備と確認でき、既存通常版と区別するため装備名末尾にSSSを付与。左側のみ固有アビリティとして採用。"
+    },
+    {
+      "equipment_uid": "eq000260",
+      "method": "video",
+      "source_file": "rs_15.mp4",
+      "screenshots": [
+        "260_佐賀県TシャツSSS_装備詳細.png",
+        "260_佐賀県TシャツSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。動画上でSSS装備と確認でき、既存通常版と区別するため装備名末尾にSSSを付与。左側のみ固有アビリティとして採用。"
+    },
+    {
+      "equipment_uid": "eq000261",
+      "method": "video",
+      "source_file": "rs_15.mp4",
+      "screenshots": [
+        "261_竹崎カニメットSSS_装備詳細.png",
+        "261_竹崎カニメットSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。動画上でSSS装備と確認でき、既存通常版と区別するため装備名末尾にSSSを付与。左側のみ固有アビリティとして採用。"
+    },
+    {
+      "equipment_uid": "eq000262",
+      "method": "video",
+      "source_file": "rs_15.mp4",
+      "screenshots": [
+        "262_クイックシルバーSSS_装備詳細.png",
+        "262_クイックシルバーSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。動画上でSSS装備と確認でき、既存通常版と区別するため装備名末尾にSSSを付与。左側のみ固有アビリティとして採用。"
+    },
+    {
+      "equipment_uid": "eq000263",
+      "method": "video",
+      "source_file": "rs_15.mp4",
+      "screenshots": [
+        "263_げんじのこてSSS_装備詳細.png",
+        "263_げんじのこてSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。動画上でSSS装備と確認でき、既存通常版と区別するため装備名末尾にSSSを付与。左側のみ固有アビリティとして採用。"
+    },
+    {
+      "equipment_uid": "eq000264",
+      "method": "video",
+      "source_file": "rs_15.mp4",
+      "screenshots": [
+        "264_鳳炎のケープSSS_装備詳細.png",
+        "264_鳳炎のケープSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。動画上でSSS装備と確認でき、既存通常版と区別するため装備名末尾にSSSを付与。左側のみ固有アビリティとして採用。"
+    },
+    {
+      "equipment_uid": "eq000265",
+      "method": "video",
+      "source_file": "rs_15.mp4",
+      "screenshots": [
+        "265_水波のドレスSSS_装備詳細.png",
+        "265_水波のドレスSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。動画上でSSS装備と確認でき、既存通常版と区別するため装備名末尾にSSSを付与。左側のみ固有アビリティとして採用。"
+    },
+    {
+      "equipment_uid": "eq000266",
+      "method": "video",
+      "source_file": "rs_15.mp4",
+      "screenshots": [
+        "266_マスタリーグラブSSS_装備詳細.png",
+        "266_マスタリーグラブSSS_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。動画上でSSS装備と確認でき、既存通常版と区別するため装備名末尾にSSSを付与。左側のみ固有アビリティとして採用。"
+    },
+    {
+      "equipment_uid": "eq000267",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "267_王家の指輪_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000268",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "268_雷神の指輪_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000269",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "269_トリックバッジ_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000270",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "270_ガードリング_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000271",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "271_陽月の耳飾り(+)_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000272",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "272_セイントリース_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000273",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "273_紅撃の指輪_装備詳細.png",
+        "IMG_3599.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。 添付スクリーンショット IMG_3599.PNG で「秀逸の刻印 25%」の説明全文を確認し、descriptionを更新。"
+    },
+    {
+      "equipment_uid": "eq000274",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "274_蒼護の指輪_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000275",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "275_風紀の腕章_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000276",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "276_輝きの雫_装備詳細.png",
+        "276_輝きの雫_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000277",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "277_鈍化の指輪_装備詳細.png",
+        "277_鈍化の指輪_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000278",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "278_バルたんキーホルダー_装備詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000279",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "279_蒼翼の耳飾り(+)_装備詳細.png",
+        "279_蒼翼の耳飾り(+)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000280",
+      "method": "video",
+      "source_file": "rs_16.mp4",
+      "screenshots": [
+        "280_ロイヤルブローチ_装備詳細.png",
+        "280_ロイヤルブローチ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-18",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。 装飾品一覧スクショの所持状況とユーザー指定により quantity=5 に更新。"
+    },
+    {
+      "equipment_uid": "eq000281",
+      "method": "video",
+      "source_file": "rs_17.mp4",
+      "screenshots": [
+        "281_邪眼のペンダント_装備詳細.png",
+        "281_邪眼のペンダント_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000282",
+      "method": "video",
+      "source_file": "rs_17.mp4",
+      "screenshots": [
+        "282_天翼のペンダント_装備詳細.png",
+        "282_天翼のペンダント_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000283",
+      "method": "video",
+      "source_file": "rs_17.mp4",
+      "screenshots": [
+        "283_コッペパンスカーフ_装備詳細.png",
+        "283_コッペパンスカーフ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000284",
+      "method": "video",
+      "source_file": "rs_17.mp4",
+      "screenshots": [
+        "284_ステライヤリング_装備詳細.png",
+        "284_ステライヤリング_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。 ユーザー指定により複数種族版へ汎用化するため、アビリティ内の種族名「メカ」を「〇〇」に置換。 装飾品一覧スクショの所持状況とユーザー指定により quantity=5 に更新。"
+    },
+    {
+      "equipment_uid": "eq000285",
+      "method": "video",
+      "source_file": "rs_17.mp4",
+      "screenshots": [
+        "285_稲妻の指輪(+)_装備詳細.png",
+        "285_稲妻の指輪(+)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。 装飾品一覧スクショの所持状況とユーザー指定により quantity=5 に更新。"
+    },
+    {
+      "equipment_uid": "eq000286",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "286_斬結の指輪(+)_装備詳細.png",
+        "286_斬結の指輪(+)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000287",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "287_砕鎚の指輪(+)_装備詳細.png",
+        "287_砕鎚の指輪(+)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000288",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "288_鋭突の指輪(+)_装備詳細.png",
+        "288_鋭突の指輪(+)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000289",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "289_紅焔の指輪(+)_装備詳細.png",
+        "289_紅焔の指輪(+)_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000290",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "290_英雄の証-ロックブーケ-_装備詳細.png",
+        "290_英雄の証-ロックブーケ-_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000291",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "291_SWAチャンピオンベルト-青-_装備詳細.png",
+        "291_SWAチャンピオンベルト-青-_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000292",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "292_雲上のメモリア_装備詳細.png",
+        "292_雲上のメモリア_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000293",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "293_双迅の矢筒_装備詳細.png",
+        "293_双迅の矢筒_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000294",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "294_ファンタズムレリック_装備詳細.png",
+        "294_ファンタズムレリック_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。 ユーザー指定により複数種類へ対応する汎用表記として、アビリティ内の種類固有部分を「〇〇」に置換。 装飾品一覧スクショの所持状況とユーザー指定により quantity=5 に更新。"
+    },
+    {
+      "equipment_uid": "eq000295",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "295_カオスレリック_装備詳細.png",
+        "295_カオスレリック_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。 ユーザー指定により複数種類へ対応する汎用表記として、アビリティ内の種類固有部分を「〇〇」に置換。 装飾品一覧スクショの所持状況とユーザー指定により quantity=5 に更新。"
+    },
+    {
+      "equipment_uid": "eq000296",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "296_アストラルレリック_装備詳細.png",
+        "296_アストラルレリック_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。 ユーザー指定により複数種類へ対応する汎用表記として、アビリティ内の種類固有部分を「〇〇」に置換。 装飾品一覧スクショの所持状況とユーザー指定により quantity=5 に更新。"
+    },
+    {
+      "equipment_uid": "eq000297",
+      "method": "video",
+      "source_file": "rs_18.mp4",
+      "screenshots": [
+        "297_ムツゴロウピアス_装備詳細.png",
+        "297_ムツゴロウピアス_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。装飾品聖石は固有アビリティから除外。"
+    },
+    {
+      "equipment_uid": "eq000298",
+      "method": "screenshot",
+      "source_file": "ピアス一覧.zip",
+      "screenshots": [
+        "298_憲法のピアス(陽+)_装備詳細.PNG",
+        "298_憲法のピアス(陽+)_アビリティ詳細.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "添付スクリーンショットから直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。 ユーザー指定により属性違いの複数種類へ対応する汎用表記として、装備名の属性部分を「〇〇+」、固有アビリティの属性部分を「〇〇属性」に置換。"
+    },
+    {
+      "equipment_uid": "eq000299",
+      "method": "screenshot",
+      "source_file": "ピアス一覧.zip",
+      "screenshots": [
+        "299_瑠璃紺のピアス(陰+)_装備詳細.PNG",
+        "299_瑠璃紺のピアス(陰+)_アビリティ詳細.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "添付スクリーンショットから直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。 ユーザー指定により属性違いの複数種類へ対応する汎用表記として、装備名の属性部分を「〇〇+」、固有アビリティの属性部分を「〇〇属性」に置換。"
+    },
+    {
+      "equipment_uid": "eq000300",
+      "method": "screenshot",
+      "source_file": "ピアス一覧.zip",
+      "screenshots": [
+        "300_濡羽のピアス(陰+)_装備詳細.PNG",
+        "300_濡羽のピアス(陰+)_アビリティ詳細.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "添付スクリーンショットから直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。 ユーザー指定により属性違いの複数種類へ対応する汎用表記として、装備名の属性部分を「〇〇+」、固有アビリティの属性部分を「〇〇属性」に置換。"
+    },
+    {
+      "equipment_uid": "eq000301",
+      "method": "screenshot",
+      "source_file": "ピアス一覧.zip",
+      "screenshots": [
+        "301_緋のピアス(陰+)_装備詳細.PNG",
+        "301_緋のピアス(陰+)_アビリティ詳細.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "添付スクリーンショットから直接読み取り。category=accessory。装飾品画面ではsub_category表示がないためnull。 ユーザー指定により属性違いの複数種類へ対応する汎用表記として、装備名の属性部分を「〇〇+」、固有アビリティの属性部分を「〇〇属性」に置換。"
+    },
+    {
+      "equipment_uid": "eq000302",
+      "method": "video",
+      "source_file": "rs_19.mp4",
+      "screenshots": [
+        "302_ノヴァ・ハート_装備詳細.png",
+        "302_ノヴァ・ハート_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory、sub_category=null。画面上でSSSと確認。"
+    },
+    {
+      "equipment_uid": "eq000303",
+      "method": "video",
+      "source_file": "rs_19.mp4",
+      "screenshots": [
+        "303_ラストリーフ_装備詳細.png",
+        "303_ラストリーフ_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory、sub_category=null。画面上でSSSと確認。"
+    },
+    {
+      "equipment_uid": "eq000304",
+      "method": "video",
+      "source_file": "rs_19.mp4",
+      "screenshots": [
+        "304_イターナルロック_装備詳細.png",
+        "304_イターナルロック_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory、sub_category=null。画面上でSSSと確認。"
+    },
+    {
+      "equipment_uid": "eq000305",
+      "method": "video",
+      "source_file": "rs_19.mp4",
+      "screenshots": [
+        "305_ハルモニウム_装備詳細.png",
+        "305_ハルモニウム_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory、sub_category=null。画面上でSSSと確認。"
+    },
+    {
+      "equipment_uid": "eq000306",
+      "method": "video",
+      "source_file": "rs_19.mp4",
+      "screenshots": [
+        "306_トウテツパターン_装備詳細.png",
+        "306_トウテツパターン_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory、sub_category=null。画面上でSSSと確認。"
+    },
+    {
+      "equipment_uid": "eq000307",
+      "method": "video",
+      "source_file": "rs_19.mp4",
+      "screenshots": [
+        "307_ディープブルー_装備詳細.png",
+        "307_ディープブルー_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory、sub_category=null。画面上でSSSと確認。"
+    },
+    {
+      "equipment_uid": "eq000308",
+      "method": "video",
+      "source_file": "rs_19.mp4",
+      "screenshots": [
+        "308_ロトのしるし_装備詳細.png",
+        "308_ロトのしるし_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory、sub_category=null。画面上でSSSと確認。"
+    },
+    {
+      "equipment_uid": "eq000309",
+      "method": "video",
+      "source_file": "rs_19.mp4",
+      "screenshots": [
+        "309_永久氷晶_装備詳細.png",
+        "309_永久氷晶_アビリティ詳細.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "動画画面から直接読み取り。category=accessory、sub_category=null。画面上でSSSと確認。"
+    },
+    {
+      "equipment_uid": "eq000310",
+      "method": "screenshot",
+      "source_file": "IMG_1094.PNG",
+      "screenshots": [
+        "310_エルメスのくつ_装備詳細.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "添付スクリーンショットから直接読み取り。副防具／具足。アビリティ欄は空のため abilities=[]。通常版として登録。"
+    },
+    {
+      "equipment_uid": "eq000311",
+      "method": "screenshot",
+      "source_file": "IMG_1093.PNG",
+      "screenshots": [
+        "311_聖王マント_装備詳細.PNG"
+      ],
+      "verified": true,
+      "registered_at": "2026-09-19",
+      "notes": "添付スクリーンショットから直接読み取り。副防具／服。アビリティ欄は空のため abilities=[]。通常版として登録。"
+    }
+  ]
+}
