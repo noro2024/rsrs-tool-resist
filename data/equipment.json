@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "data_version": "equipment-311-2026-09-20-v1.0",
+  "data_version": "equipment-314-2026-10-10-v1.1",
   "equipment": [
     {
       "uid": "eq000001",
@@ -4040,7 +4040,8 @@
           "description": "[バトル開始時] 自身に「行動順補正低下」（効果大/効果バトル中永続）を付与する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000096",
@@ -4937,7 +4938,8 @@
           "description": "攻撃を受けた時 味方生存者全体の精神を上昇させる（効果中）"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000113",
@@ -4987,7 +4989,8 @@
           "description": "陰属性を含む攻撃を受けた時 被ダメージを15%軽減する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000114",
@@ -5041,7 +5044,8 @@
           "description": "【ターン終了時】 自身の毒状態を解除する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000115",
@@ -5095,7 +5099,8 @@
           "description": "自身が「鳳炎のケープ」を装備している場合 敵に与えるダメージが100%上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000116",
@@ -5149,7 +5154,8 @@
           "description": "自身が「水波のドレス」を装備している場合 味方生存者全体の被ダメージを15%軽減する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000117",
@@ -10427,7 +10433,8 @@
           "description": "自身が「聖王の鎧」を装備している場合 自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力が100上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000242",
@@ -10477,7 +10484,8 @@
           "description": "【バトル開始時】自身に「行動順補正上昇」（効果大/効果バトル中永続）を付与する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000243",
@@ -11378,7 +11386,8 @@
           "description": "シリーズが「GBSaGa」のキャラクターが装備している場合 自身の敵に与えるダメージが50%上昇する ※シリーズ「その他」のキャラクターは対象外"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000260",
@@ -11424,7 +11433,8 @@
           "description": "【バトル開始時】自身に「ターン終了時BP回復(+3)」（効果3ターン）を付与する 自身の愛・魅力が100上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000261",
@@ -11470,7 +11480,8 @@
           "description": "【バトル開始時】自身に「ターン終了時ODゲージ上昇(満タン/1回)」（効果1ターン）を付与する 自身の愛・魅力が100上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000262",
@@ -11516,7 +11527,8 @@
           "description": "素早さが200上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000263",
@@ -11570,7 +11582,8 @@
           "description": "【バトル開始時】自身に「ダメージブロック(1回)」（効果ターン数制限なし）を付与する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000264",
@@ -11620,7 +11633,8 @@
           "description": "熱属性を含む攻撃命中時、自身の腕力・知力が上昇する（効果中）"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000265",
@@ -11670,7 +11684,8 @@
           "description": "冷属性を含む攻撃命中時、自身の器用さ・知力が上昇する（効果中）"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000266",
@@ -11716,7 +11731,8 @@
           "description": "自身が小剣を装備している場合 自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力が100上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000267",
@@ -13853,6 +13869,131 @@
         "精神": 0,
         "愛": 3,
         "魅力": 3
+      },
+      "abilities": [],
+      "quantity": 1
+    },
+    {
+      "uid": "eq000312",
+      "name": "星辰の鎧SSS",
+      "category": "main",
+      "sub_category": "重鎧",
+      "rarity": "SSS",
+      "element": {
+        "斬": 50,
+        "打": 40,
+        "突": 50,
+        "熱": 26,
+        "冷": 26,
+        "雷": 12,
+        "陽": 0,
+        "陰": 0
+      },
+      "ailment": {
+        "毒": 0,
+        "暗闇": 0,
+        "スタン": 0,
+        "マヒ": 0,
+        "眠り": 0,
+        "石化": 0,
+        "混乱": 0,
+        "魅了": 0,
+        "狂戦士": 0,
+        "気絶": 0
+      },
+      "status": {
+        "腕力": 14,
+        "体力": 0,
+        "器用さ": 8,
+        "素早さ": -3,
+        "知力": 12,
+        "精神": 0,
+        "愛": 0,
+        "魅力": 0
+      },
+      "abilities": [],
+      "quantity": 1,
+      "isSuperEvolution": true
+    },
+    {
+      "uid": "eq000313",
+      "name": "ねじりヒドラSSS",
+      "category": "sub",
+      "sub_category": "兜",
+      "rarity": "SSS",
+      "element": {
+        "斬": 0,
+        "打": 50,
+        "突": 0,
+        "熱": 55,
+        "冷": 55,
+        "雷": 0,
+        "陽": 0,
+        "陰": 0
+      },
+      "ailment": {
+        "毒": 80,
+        "暗闇": 0,
+        "スタン": 0,
+        "マヒ": 0,
+        "眠り": 0,
+        "石化": 0,
+        "混乱": 0,
+        "魅了": 0,
+        "狂戦士": 0,
+        "気絶": 0
+      },
+      "status": {
+        "腕力": 0,
+        "体力": 12,
+        "器用さ": 0,
+        "素早さ": 0,
+        "知力": 8,
+        "精神": 12,
+        "愛": 0,
+        "魅力": 0
+      },
+      "abilities": [],
+      "quantity": 1,
+      "isSuperEvolution": true
+    },
+    {
+      "uid": "eq000314",
+      "name": "覇王の鎧",
+      "category": "main",
+      "sub_category": "全身鎧",
+      "rarity": "SS",
+      "element": {
+        "斬": 60,
+        "打": 60,
+        "突": 51,
+        "熱": 21,
+        "冷": 21,
+        "雷": 21,
+        "陽": 21,
+        "陰": 21
+      },
+      "ailment": {
+        "毒": 0,
+        "暗闇": 0,
+        "スタン": 0,
+        "マヒ": 0,
+        "眠り": 0,
+        "石化": 0,
+        "混乱": 0,
+        "魅了": 0,
+        "狂戦士": 0,
+        "気絶": 0
+      },
+      "status": {
+        "腕力": 15,
+        "体力": 10,
+        "器用さ": 0,
+        "素早さ": -8,
+        "知力": -10,
+        "精神": 12,
+        "愛": 0,
+        "魅力": 0
       },
       "abilities": [],
       "quantity": 1

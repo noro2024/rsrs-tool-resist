@@ -634,12 +634,12 @@ THE SOFTWARE.
 <div id="menu-panel" class="menu-panel" hidden><div class="menu-titlebar"><span class="menu-close-dot" id="menu-window-close" role="button" tabindex="0" aria-label="メニューを閉じる"></span><span>MENU</span></div><div class="menu-body"><button id="menu-solo" type="button">SOLO MODE</button><button id="menu-all" type="button" hidden>NORMAL MODE</button><button id="menu-shuffle" type="button">SHUFFLE</button><label class="menu-check"><input id="menu-sss-off" type="checkbox"><span>超進化 OFF</span></label><label class="menu-check" id="menu-raiku-row"><input id="menu-raiku-off" type="checkbox"><span>雷窟装備 OFF</span></label><label class="menu-check"><input id="menu-sound-off" type="checkbox"><span>SOUND OFF</span></label><label class="menu-check"><input id="menu-kagura-on" type="checkbox"><span>力秘めし神楽鈴 ON</span></label><select id="menu-bulk-style" aria-label="スタイル一括変更"><option value="">スタイル一括変更</option><option value="slash">斬</option><option value="blunt">打</option><option value="pierce">突</option><option value="tri_ok">斬・打・突</option></select><button id="menu-manual" type="button"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783"/></svg><span>説明書</span></button><button id="menu-updates" type="button"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock-history" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8.515 1.019A7 7 0 0 0 8 1V0a8 8 0 0 1 .589.022zm2.004.45a7 7 0 0 0-.985-.299l.219-.976q.576.129 1.126.342zm1.37.71a7 7 0 0 0-.439-.27l.493-.87a8 8 0 0 1 .979.654l-.615.789a7 7 0 0 0-.418-.302zm1.834 1.79a7 7 0 0 0-.653-.796l.724-.69q.406.429.747.91zm.744 1.352a7 7 0 0 0-.214-.468l.893-.45a8 8 0 0 1 .45 1.088l-.95.313a7 7 0 0 0-.179-.483m.53 2.507a7 7 0 0 0-.1-1.025l.985-.17q.1.58.116 1.17zm-.131 1.538q.05-.254.081-.51l.993.123a8 8 0 0 1-.23 1.155l-.964-.267q.069-.247.12-.501m-.952 2.379q.276-.436.486-.908l.914.405q-.24.54-.555 1.038zm-.964 1.205q.183-.183.35-.378l.758.653a8 8 0 0 1-.401.432z"/><path d="M8 1a7 7 0 1 0 4.95 11.95l.707.707A8.001 8.001 0 1 1 8 0z"/><path d="M7.5 3a.5.5 0 0 1 .5.5v5.21l3.248 1.856a.5.5 0 0 1-.496.868l-3.5-2A.5.5 0 0 1 7 9V3.5a.5.5 0 0 1 .5-.5"/></svg><span>更新履歴</span></button></div></div><div id="detail-modal" class="detail-modal" hidden role="dialog" aria-modal="true" aria-labelledby="detail-modal-title"><div class="detail-card"><div class="detail-card-head"><div id="detail-modal-title" class="detail-card-title"></div><button id="detail-close" class="detail-close" type="button" aria-label="閉じる">×</button></div><div id="detail-modal-body"></div></div></div>
 <section class="controls" aria-label="固定操作ボタン"><button id="compose" class="mainbtn auto">AUTO</button><div class="subgrid"><button id="temp-save"><span>SAVE</span></button><button id="temp-load"><span>LOAD</span></button><button id="composition-reset" class="reset"><span>RESET</span></button><button id="undo" disabled><span>UNDO</span></button></div><button id="check" class="mainbtn check" type="button"><span style="font-size:96.8%">LIST</span></button></section>
 <div class="speaker speaker-left" aria-hidden="true"></div><div class="speaker speaker-right" aria-hidden="true"></div>
-</main><div id="updates-modal" class="all-modal" hidden role="dialog" aria-modal="true" aria-labelledby="updates-title"><div class="all-card manual-card"><div class="all-card-head"><div id="updates-title" class="all-card-title">更新履歴</div><button id="updates-close" class="all-close" type="button" aria-label="閉じる"></button></div><div class="manual-body"><p>2026.9/20　Resist自動装備ツール実装</p></div><button id="updates-close-bottom" class="all-close-footer" type="button">閉じる</button></div></div><div id="all-modal" class="all-modal" hidden role="dialog" aria-modal="true" aria-labelledby="all-modal-title"><div class="all-card"><div class="all-card-head"><div id="all-modal-title" class="all-card-title" aria-hidden="true"></div><button id="all-close" class="all-close" type="button" aria-label="閉じる"></button></div><div id="all-modal-body" class="all-card-body"></div><div class="check-actions"><button id="export-image" class="all-close-footer" type="button">保存</button><button id="all-close-bottom" class="all-close-footer" type="button">閉じる</button></div></div></div><div id="manual-modal" class="all-modal" hidden role="dialog" aria-modal="true" aria-labelledby="manual-title"><div class="all-card manual-card"><div class="all-card-head"><div id="manual-title" class="all-card-title">説明書</div><button id="manual-close" class="all-close" type="button" aria-label="閉じる"></button></div><div class="manual-body"><p class="manual-intro">AUTOを押すとResistする組み合わせが自動選択されます<br>【 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" role="img" aria-label="開いた南京錠" style="vertical-align:-3px"><path fill-rule="evenodd" d="M12 0a4 4 0 0 1 4 4v2.5h-1V4a3 3 0 1 0-6 0v2h.5A2.5 2.5 0 0 1 12 8.5v5A2.5 2.5 0 0 1 9.5 16h-7A2.5 2.5 0 0 1 0 13.5v-5A2.5 2.5 0 0 1 2.5 6H8V4a4 4 0 0 1 4-4M2.5 7A1.5 1.5 0 0 0 1 8.5v5A1.5 1.5 0 0 0 2.5 15h7a1.5 1.5 0 0 0 1.5-1.5v-5A1.5 1.5 0 0 0 9.5 7z"/></svg> 】で装備が固定され、【 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" role="img" aria-label="目" style="vertical-align:-3px"><path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/><path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/></svg> 】を選ぶと除外されます<br>（SET名は変更可能）</p><p><b><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" role="img" aria-label="FIX" style="vertical-align:-3px"><path fill-rule="evenodd" d="M12 0a4 4 0 0 1 4 4v2.5h-1V4a3 3 0 1 0-6 0v2h.5A2.5 2.5 0 0 1 12 8.5v5A2.5 2.5 0 0 1 9.5 16h-7A2.5 2.5 0 0 1 0 13.5v-5A2.5 2.5 0 0 1 2.5 6H8V4a4 4 0 0 1 4-4M2.5 7A1.5 1.5 0 0 0 1 8.5v5A1.5 1.5 0 0 0 2.5 15h7a1.5 1.5 0 0 0 1.5-1.5v-5A1.5 1.5 0 0 0 9.5 7z"/></svg>：</b>装備を常に固定</p><p><b><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" role="img" aria-label="OFF" style="vertical-align:-3px"><path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/><path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/></svg>：</b>自動選択の候補から除外</p><p><b>AUTO：</b>装備を自動編成</p><p><b>LIST：</b>編成をまとめて表示</p><p><b>SOLO MODE：</b>1人分の装備を編成</p><p><b>NORMAL MODE：</b>5人分の画面に戻る</p><p><b>戦闘力MODE：</b>装備の戦闘力が高い順に自動選択する</p><p><b>SHUFFLE：</b>耐性条件を満たす別の編成に変更</p><p><b>超進化 OFF：</b>装備名にSSSが付く装備をAUTOから除外</p><p><b>SOUND OFF：</b>操作音をOFF</p><p><b>スタイル一括変更：</b>5人分のスタイルタイプを一括変更</p></div><button id="manual-close-bottom" class="all-close-footer" type="button">閉じる</button></div></div><div id="share-guide" class="share-guide" hidden role="dialog" aria-modal="true"><div class="share-guide-card"><p>次の共有画面で「画像を保存」を選ぶと、写真アプリに保存できます。</p><div class="share-guide-actions"><button id="share-guide-cancel" type="button">戻る</button><button id="share-guide-open" type="button">共有を開く</button></div></div></div><div id="download-confirm" class="share-guide" hidden role="dialog" aria-modal="true" aria-labelledby="download-confirm-message"><div class="share-guide-card download-confirm-card"><p id="download-confirm-message">画像を保存しますか？</p><div class="share-guide-actions"><button id="download-confirm-no" type="button">いいえ</button><button id="download-confirm-yes" type="button">はい</button></div></div></div>
+</main><div id="updates-modal" class="all-modal" hidden role="dialog" aria-modal="true" aria-labelledby="updates-title"><div class="all-card manual-card"><div class="all-card-head"><div id="updates-title" class="all-card-title">更新履歴</div><button id="updates-close" class="all-close" type="button" aria-label="閉じる"></button></div><div class="manual-body"><p>2026.9/20　Resist自動装備ツール実装</p></div><button id="updates-close-bottom" class="all-close-footer" type="button">閉じる</button></div></div><div id="all-modal" class="all-modal" hidden role="dialog" aria-modal="true" aria-labelledby="all-modal-title"><div class="all-card"><div class="all-card-head"><div id="all-modal-title" class="all-card-title" aria-hidden="true"></div><button id="all-close" class="all-close" type="button" aria-label="閉じる"></button></div><div id="all-modal-body" class="all-card-body"></div><div class="check-actions"><button id="export-image" class="all-close-footer" type="button">保存</button><button id="all-close-bottom" class="all-close-footer" type="button">閉じる</button></div></div></div><div id="manual-modal" class="all-modal" hidden role="dialog" aria-modal="true" aria-labelledby="manual-title"><div class="all-card manual-card"><div class="all-card-head"><div id="manual-title" class="all-card-title">説明書</div><button id="manual-close" class="all-close" type="button" aria-label="閉じる"></button></div><div class="manual-body"><p class="manual-intro">AUTOを押すとResistする組み合わせが自動選択されます<br>【 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" role="img" aria-label="開いた南京錠" style="vertical-align:-3px"><path fill-rule="evenodd" d="M12 0a4 4 0 0 1 4 4v2.5h-1V4a3 3 0 1 0-6 0v2h.5A2.5 2.5 0 0 1 12 8.5v5A2.5 2.5 0 0 1 9.5 16h-7A2.5 2.5 0 0 1 0 13.5v-5A2.5 2.5 0 0 1 2.5 6H8V4a4 4 0 0 1 4-4M2.5 7A1.5 1.5 0 0 0 1 8.5v5A1.5 1.5 0 0 0 2.5 15h7a1.5 1.5 0 0 0 1.5-1.5v-5A1.5 1.5 0 0 0 9.5 7z"/></svg> 】で装備が固定され、【 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" role="img" aria-label="目" style="vertical-align:-3px"><path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/><path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/></svg> 】を選ぶと除外されます<br>（SET名は変更可能）</p><p><b><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" role="img" aria-label="FIX" style="vertical-align:-3px"><path fill-rule="evenodd" d="M12 0a4 4 0 0 1 4 4v2.5h-1V4a3 3 0 1 0-6 0v2h.5A2.5 2.5 0 0 1 12 8.5v5A2.5 2.5 0 0 1 9.5 16h-7A2.5 2.5 0 0 1 0 13.5v-5A2.5 2.5 0 0 1 2.5 6H8V4a4 4 0 0 1 4-4M2.5 7A1.5 1.5 0 0 0 1 8.5v5A1.5 1.5 0 0 0 2.5 15h7a1.5 1.5 0 0 0 1.5-1.5v-5A1.5 1.5 0 0 0 9.5 7z"/></svg>：</b>装備を常に固定</p><p><b><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" role="img" aria-label="OFF" style="vertical-align:-3px"><path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/><path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/></svg>：</b>自動選択の候補から除外</p><p><b>AUTO：</b>装備を自動編成</p><p><b>LIST：</b>編成をまとめて表示</p><p><b>SOLO MODE：</b>1人分の装備を編成</p><p><b>NORMAL MODE：</b>5人分の画面に戻る</p><p><b>戦闘力MODE：</b>装備の戦闘力が高い順に自動選択する</p><p><b>SHUFFLE：</b>耐性条件を満たす別の編成に変更</p><p><b>超進化 OFF：</b>SSS超進化装備をAUTOから除外</p><p><b>SOUND OFF：</b>操作音をOFF</p><p><b>スタイル一括変更：</b>5人分のスタイルタイプを一括変更</p></div><button id="manual-close-bottom" class="all-close-footer" type="button">閉じる</button></div></div><div id="share-guide" class="share-guide" hidden role="dialog" aria-modal="true"><div class="share-guide-card"><p>次の共有画面で「画像を保存」を選ぶと、写真アプリに保存できます。</p><div class="share-guide-actions"><button id="share-guide-cancel" type="button">戻る</button><button id="share-guide-open" type="button">共有を開く</button></div></div></div><div id="download-confirm" class="share-guide" hidden role="dialog" aria-modal="true" aria-labelledby="download-confirm-message"><div class="share-guide-card download-confirm-card"><p id="download-confirm-message">画像を保存しますか？</p><div class="share-guide-actions"><button id="download-confirm-no" type="button">いいえ</button><button id="download-confirm-yes" type="button">はい</button></div></div></div>
 <script>
 window.RS_APP_VERSION = "v1.0.3";
 window.RS_EQUIPMENT_DATA = {
   "schema_version": 1,
-  "data_version": "equipment-311-2026-09-20-v1.0",
+  "data_version": "equipment-314-2026-10-10-v1.1",
   "equipment": [
     {
       "uid": "eq000001",
@@ -4679,7 +4679,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "[バトル開始時] 自身に「行動順補正低下」（効果大/効果バトル中永続）を付与する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000096",
@@ -5576,7 +5577,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "攻撃を受けた時 味方生存者全体の精神を上昇させる（効果中）"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000113",
@@ -5626,7 +5628,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "陰属性を含む攻撃を受けた時 被ダメージを15%軽減する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000114",
@@ -5680,7 +5683,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "【ターン終了時】 自身の毒状態を解除する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000115",
@@ -5734,7 +5738,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "自身が「鳳炎のケープ」を装備している場合 敵に与えるダメージが100%上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000116",
@@ -5788,7 +5793,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "自身が「水波のドレス」を装備している場合 味方生存者全体の被ダメージを15%軽減する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000117",
@@ -11066,7 +11072,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "自身が「聖王の鎧」を装備している場合 自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力が100上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000242",
@@ -11116,7 +11123,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "【バトル開始時】自身に「行動順補正上昇」（効果大/効果バトル中永続）を付与する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000243",
@@ -12017,7 +12025,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "シリーズが「GBSaGa」のキャラクターが装備している場合 自身の敵に与えるダメージが50%上昇する ※シリーズ「その他」のキャラクターは対象外"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000260",
@@ -12063,7 +12072,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "【バトル開始時】自身に「ターン終了時BP回復(+3)」（効果3ターン）を付与する 自身の愛・魅力が100上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000261",
@@ -12109,7 +12119,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "【バトル開始時】自身に「ターン終了時ODゲージ上昇(満タン/1回)」（効果1ターン）を付与する 自身の愛・魅力が100上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000262",
@@ -12155,7 +12166,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "素早さが200上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000263",
@@ -12209,7 +12221,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "【バトル開始時】自身に「ダメージブロック(1回)」（効果ターン数制限なし）を付与する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000264",
@@ -12259,7 +12272,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "熱属性を含む攻撃命中時、自身の腕力・知力が上昇する（効果中）"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000265",
@@ -12309,7 +12323,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "冷属性を含む攻撃命中時、自身の器用さ・知力が上昇する（効果中）"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000266",
@@ -12355,7 +12370,8 @@ window.RS_EQUIPMENT_DATA = {
           "description": "自身が小剣を装備している場合 自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力が100上昇する"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "isSuperEvolution": true
     },
     {
       "uid": "eq000267",
@@ -14495,6 +14511,131 @@ window.RS_EQUIPMENT_DATA = {
       },
       "abilities": [],
       "quantity": 1
+    },
+    {
+      "uid": "eq000312",
+      "name": "星辰の鎧SSS",
+      "category": "main",
+      "sub_category": "重鎧",
+      "rarity": "SSS",
+      "element": {
+        "斬": 50,
+        "打": 40,
+        "突": 50,
+        "熱": 26,
+        "冷": 26,
+        "雷": 12,
+        "陽": 0,
+        "陰": 0
+      },
+      "ailment": {
+        "毒": 0,
+        "暗闇": 0,
+        "スタン": 0,
+        "マヒ": 0,
+        "眠り": 0,
+        "石化": 0,
+        "混乱": 0,
+        "魅了": 0,
+        "狂戦士": 0,
+        "気絶": 0
+      },
+      "status": {
+        "腕力": 14,
+        "体力": 0,
+        "器用さ": 8,
+        "素早さ": -3,
+        "知力": 12,
+        "精神": 0,
+        "愛": 0,
+        "魅力": 0
+      },
+      "abilities": [],
+      "quantity": 1,
+      "isSuperEvolution": true
+    },
+    {
+      "uid": "eq000313",
+      "name": "ねじりヒドラSSS",
+      "category": "sub",
+      "sub_category": "兜",
+      "rarity": "SSS",
+      "element": {
+        "斬": 0,
+        "打": 50,
+        "突": 0,
+        "熱": 55,
+        "冷": 55,
+        "雷": 0,
+        "陽": 0,
+        "陰": 0
+      },
+      "ailment": {
+        "毒": 80,
+        "暗闇": 0,
+        "スタン": 0,
+        "マヒ": 0,
+        "眠り": 0,
+        "石化": 0,
+        "混乱": 0,
+        "魅了": 0,
+        "狂戦士": 0,
+        "気絶": 0
+      },
+      "status": {
+        "腕力": 0,
+        "体力": 12,
+        "器用さ": 0,
+        "素早さ": 0,
+        "知力": 8,
+        "精神": 12,
+        "愛": 0,
+        "魅力": 0
+      },
+      "abilities": [],
+      "quantity": 1,
+      "isSuperEvolution": true
+    },
+    {
+      "uid": "eq000314",
+      "name": "覇王の鎧",
+      "category": "main",
+      "sub_category": "全身鎧",
+      "rarity": "SS",
+      "element": {
+        "斬": 60,
+        "打": 60,
+        "突": 51,
+        "熱": 21,
+        "冷": 21,
+        "雷": 21,
+        "陽": 21,
+        "陰": 21
+      },
+      "ailment": {
+        "毒": 0,
+        "暗闇": 0,
+        "スタン": 0,
+        "マヒ": 0,
+        "眠り": 0,
+        "石化": 0,
+        "混乱": 0,
+        "魅了": 0,
+        "狂戦士": 0,
+        "気絶": 0
+      },
+      "status": {
+        "腕力": 15,
+        "体力": 10,
+        "器用さ": 0,
+        "素早さ": -8,
+        "知力": -10,
+        "精神": 12,
+        "愛": 0,
+        "魅力": 0
+      },
+      "abilities": [],
+      "quantity": 1
     }
   ]
 };
@@ -14885,7 +15026,7 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   function selectedItem(uid){return state.inventory.find(x=>x.uid===uid)}
   function isSlotLocked(c,t){return Boolean(c.lockedSlots[t])}
   function selectedUid(c,t){return c.selectedEquipment[t]}
-  function isSuperEvolutionItem(item){return String(item?.name||'').trim().endsWith('SSS')}
+  function isSuperEvolutionItem(item){return Boolean(item?.isSuperEvolution)}
   function excluded(c,t,uid){return(state.globalExcluded[t]||[]).includes(uid)}
   function snapshot(){return{characters:clone(state.characters),soloCharacter:clone(state.soloCharacter),sortResistanceByMode:clone(state.sortResistanceByMode),globalExcluded:clone(state.globalExcluded),mode:state.mode}}
   function saveHistory(){state.history.push(snapshot());if(state.history.length>20)state.history.shift();updateUndoButton()}
