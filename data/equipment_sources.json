@@ -4091,6 +4091,32 @@
       "verified": true,
       "registered_at": "2026-09-19",
       "notes": "添付スクリーンショットから直接読み取り。副防具／服。アビリティ欄は空のため abilities=[]。通常版として登録。"
+    },
+    {
+      "equipment_uid": "eq000312",
+      "method": "screenshot",
+      "source_file": "rs_equipment_frames_2026-10-10.zip",
+      "screenshots": [
+        "video1/07s.png",
+        "video1/14s.png",
+        "video1/17s.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-10-10",
+      "notes": "添付フレームから直接読み取り。星辰の鎧SSSの固有アビリティと超進化後の耐性を確認。"
+    },
+    {
+      "equipment_uid": "eq000313",
+      "method": "screenshot",
+      "source_file": "rs_equipment_frames_2026-10-10.zip",
+      "screenshots": [
+        "video2/07s.png",
+        "video2/14s.png",
+        "video2/17s.png"
+      ],
+      "verified": true,
+      "registered_at": "2026-10-10",
+      "notes": "添付フレームから直接読み取り。ねじりヒドラSSSの固有アビリティと超進化後の耐性を確認。"
     }
   ]
 }

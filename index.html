@@ -14550,7 +14550,16 @@ window.RS_EQUIPMENT_DATA = {
         "愛": 0,
         "魅力": 0
       },
-      "abilities": [],
+      "abilities": [
+        {
+          "name": "堅牢の刻印 15%",
+          "description": "被ダメージを15%軽減する"
+        },
+        {
+          "name": "知識累積",
+          "description": "ターン開始時、自身の知力を上昇させる（効果中）"
+        }
+      ],
       "quantity": 1,
       "isSuperEvolution": true
     },
@@ -14592,7 +14601,20 @@ window.RS_EQUIPMENT_DATA = {
         "愛": 0,
         "魅力": 0
       },
-      "abilities": [],
+      "abilities": [
+        {
+          "name": "堅牢の刻印 15%",
+          "description": "被ダメージを15%軽減する"
+        },
+        {
+          "name": "レジストドライブ",
+          "description": "Resist攻撃を受けた時、自身に「ターン終了時ODゲージ上昇(小)」（効果1ターン）を付与する※攻撃が命中した時のみ発動"
+        },
+        {
+          "name": "浄化の紋章(毒)",
+          "description": "【ターン終了時】自身の毒状態を解除する"
+        }
+      ],
       "quantity": 1,
       "isSuperEvolution": true
     },
@@ -15231,7 +15253,6 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   $('#screen').addEventListener('scroll',()=>{if(!active)return;const top=$('#screen').getBoundingClientRect().top+$('.setnav').getBoundingClientRect().height;let index=0,distance=Math.abs($('#power-total-top').getBoundingClientRect().top-top);panel.querySelectorAll('.set').forEach((section,n)=>{const d=Math.abs(section.getBoundingClientRect().top-top);if(d<distance){distance=d;index=n+1}});title.querySelectorAll('a').forEach((a,n)=>a.classList.toggle('active',n===index))},{passive:true});
 })();
 </script></body></html>
-
 
 
 
