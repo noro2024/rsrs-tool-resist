@@ -14975,7 +14975,7 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   const AILMENT_KEYS=['毒','暗闇','スタン','マヒ','眠り','石化','混乱','魅了','狂戦士','気絶'];
   const STATUS_KEYS=['腕力','体力','器用さ','素早さ','知力','精神','愛','魅力'];
   const normalizeValues=(source,keys)=>Object.fromEntries(keys.map(key=>[key,Number(source?.[key]??0)]));
-  function normalizeEquipmentDatabase(database){const rows=Array.isArray(database?.equipment)?database.equipment:null;if(!rows)return null;const uids=new Set(),inventory=[];for(const item of rows){if(!item?.uid||uids.has(item.uid)||!CATEGORIES.includes(item.category))return null;uids.add(item.uid);inventory.push({uid:item.uid,name:item.name||'',category:item.category,sub_category:item.sub_category??null,rarity:item.rarity??null,quantity:Math.max(1,Math.floor(Number(item.quantity)||1)),element:normalizeValues(item.element,ELEMENT_KEYS),ailment:normalizeValues(item.ailment,AILMENT_KEYS),status:normalizeValues(item.status,STATUS_KEYS),abilities:Array.isArray(item.abilities)?item.abilities.map(a=>({name:a?.name||'',description:a?.description??null})):[]})}return inventory}
+  function normalizeEquipmentDatabase(database){const rows=Array.isArray(database?.equipment)?database.equipment:null;if(!rows)return null;const uids=new Set(),inventory=[];for(const item of rows){if(!item?.uid||uids.has(item.uid)||!CATEGORIES.includes(item.category))return null;uids.add(item.uid);inventory.push({uid:item.uid,name:item.name||'',category:item.category,sub_category:item.sub_category??null,rarity:item.rarity??null,isSuperEvolution:Boolean(item.isSuperEvolution),quantity:Math.max(1,Math.floor(Number(item.quantity)||1)),element:normalizeValues(item.element,ELEMENT_KEYS),ailment:normalizeValues(item.ailment,AILMENT_KEYS),status:normalizeValues(item.status,STATUS_KEYS),abilities:Array.isArray(item.abilities)?item.abilities.map(a=>({name:a?.name||'',description:a?.description??null})):[]})}return inventory}
   const STYLE_NAME_TO_ID={
     '斬':'slash',
     '打':'blunt',
@@ -15231,7 +15231,6 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   $('#screen').addEventListener('scroll',()=>{if(!active)return;const top=$('#screen').getBoundingClientRect().top+$('.setnav').getBoundingClientRect().height;let index=0,distance=Math.abs($('#power-total-top').getBoundingClientRect().top-top);panel.querySelectorAll('.set').forEach((section,n)=>{const d=Math.abs(section.getBoundingClientRect().top-top);if(d<distance){distance=d;index=n+1}});title.querySelectorAll('a').forEach((a,n)=>a.classList.toggle('active',n===index))},{passive:true});
 })();
 </script></body></html>
-
 
 
 
