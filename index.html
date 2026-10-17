@@ -606,6 +606,11 @@ body{padding:10px 8px 14px!important}
 
 #menu-raiku-row{display:none}.power-active #menu-raiku-row{display:flex}
 
+/* Preserve the reference screen height on short viewports; scroll the page. */
+html,body{height:auto;min-height:100%}
+body{min-height:100dvh;overflow:auto}
+.device{min-height:672px}
+
 </style><!-- Bootstrap Icons: https://icons.getbootstrap.com/
 The MIT License (MIT)
 Copyright (c) 2019-2024 The Bootstrap Authors
@@ -15294,7 +15299,6 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   $('#screen').addEventListener('scroll',()=>{if(!active)return;const top=$('#screen').getBoundingClientRect().top+$('.setnav').getBoundingClientRect().height;let index=0,distance=Math.abs($('#power-total-top').getBoundingClientRect().top-top);panel.querySelectorAll('.set').forEach((section,n)=>{const d=Math.abs(section.getBoundingClientRect().top-top);if(d<distance){distance=d;index=n+1}});title.querySelectorAll('a').forEach((a,n)=>a.classList.toggle('active',n===index))},{passive:true});
 })();
 </script></body></html>
-
 
 
 
