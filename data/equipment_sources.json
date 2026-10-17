@@ -4117,6 +4117,15 @@
       "verified": true,
       "registered_at": "2026-10-10",
       "notes": "添付フレームから直接読み取り。ねじりヒドラSSSの固有アビリティと超進化後の耐性を確認。"
+    },
+    {
+      "equipment_uid": "eq000315",
+      "method": "confirmed_data",
+      "source_file": "Codex_防具画像登録システム_指示書_v1.0.md",
+      "screenshots": [],
+      "verified": true,
+      "registered_at": "2026-10-17",
+      "notes": "確認済み試験データ。画像上のレベル5/5、進化4/4。"
     }
   ]
 }
