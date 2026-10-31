@@ -4126,6 +4126,30 @@
       "verified": true,
       "registered_at": "2026-10-17",
       "notes": "確認済み試験データ。画像上のレベル5/5、進化4/4。"
+    },
+    {
+      "equipment_uid": "eq000316",
+      "method": "screenshot",
+      "source_file": "IMG_4214.PNG, IMG_4215.PNG",
+      "screenshots": [
+        "IMG_4214.PNG（ステータス画面）",
+        "IMG_4215.PNG（アビリティ詳細画面）"
+      ],
+      "verified": true,
+      "registered_at": "2026-10-31",
+      "notes": "ユーザー添付画像から直接読み取り。通常SSS装備として登録（超進化装備ではない）。"
+    },
+    {
+      "equipment_uid": "eq000317",
+      "method": "screenshot",
+      "source_file": "IMG_4216.PNG, IMG_4217.PNG",
+      "screenshots": [
+        "IMG_4216.PNG（ステータス画面）",
+        "IMG_4217.PNG（アビリティ詳細画面）"
+      ],
+      "verified": true,
+      "registered_at": "2026-10-31",
+      "notes": "ユーザー添付画像から直接読み取り。通常SSS装備として登録（超進化装備ではない）。"
     }
   ]
 }
