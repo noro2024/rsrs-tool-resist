@@ -4150,6 +4150,20 @@
       "verified": true,
       "registered_at": "2026-10-31",
       "notes": "ユーザー添付画像から直接読み取り。通常SSS装備として登録（超進化装備ではない）。"
+    },
+    {
+      "equipment_uid": "eq000318",
+      "method": "screenshot",
+      "source_file": "IMG_4315.PNG, IMG_4316.PNG, IMG_4317.PNG, IMG_4318.PNG",
+      "screenshots": [
+        "IMG_4315.PNG（ステータス画面）",
+        "IMG_4316.PNG（アビリティ詳細画面）",
+        "IMG_4317.PNG（アビリティ詳細画面）",
+        "IMG_4318.PNG（アビリティ詳細画面）"
+      ],
+      "verified": true,
+      "registered_at": "2026-11-11",
+      "notes": "ユーザー添付画像から直接読み取り。通常SSS装備、Lv.5/5、進化4/4。超進化装備ではない。"
     }
   ]
 }
