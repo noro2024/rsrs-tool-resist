@@ -4164,6 +4164,56 @@
       "verified": true,
       "registered_at": "2026-11-11",
       "notes": "ユーザー添付画像から直接読み取り。通常SSS装備、Lv.5/5、進化4/4。超進化装備ではない。"
+    },
+    {
+      "equipment_uid": "eq000319",
+      "method": "screenshot",
+      "source_file": "IMG_4455.PNG, IMG_4456.PNG, IMG_4457.PNG",
+      "screenshots": [
+        "IMG_4455.PNG（ステータス画面）",
+        "IMG_4456.PNG（アビリティ詳細画面）",
+        "IMG_4457.PNG（エクストラフォース詳細画面）"
+      ],
+      "verified": true,
+      "registered_at": "2026-11-18",
+      "notes": "超進化後のSSS装備。強化・進化MAX表示画面と固有アビリティ詳細を直接確認。"
+    },
+    {
+      "equipment_uid": "eq000320",
+      "method": "screenshot",
+      "source_file": "IMG_4453.PNG, IMG_4454.PNG",
+      "screenshots": [
+        "IMG_4453.PNG（ステータス画面・左側固有アビリティ）",
+        "IMG_4454.PNG（アビリティ詳細画面）"
+      ],
+      "verified": true,
+      "registered_at": "2026-11-18",
+      "notes": "超進化後のSSS装備。右側の聖石能力は除外。"
+    },
+    {
+      "equipment_uid": "eq000321",
+      "method": "screenshot",
+      "source_file": "IMG_4450.PNG, IMG_4451.PNG, IMG_4452.PNG",
+      "screenshots": [
+        "IMG_4450.PNG（ステータス画面）",
+        "IMG_4451.PNG（アビリティ詳細画面）",
+        "IMG_4452.PNG（解呪詳細画面）"
+      ],
+      "verified": true,
+      "registered_at": "2026-11-18",
+      "notes": "超進化後のSSS装備。"
+    },
+    {
+      "equipment_uid": "eq000322",
+      "method": "screenshot",
+      "source_file": "IMG_4448.PNG, IMG_4449.PNG",
+      "screenshots": [
+        "IMG_4448.PNG（ステータス画面・左側固有アビリティ）",
+        "IMG_4449.PNG（アビリティ詳細画面）"
+      ],
+      "verified": true,
+      "registered_at": "2026-11-18",
+      "notes": "超進化後のSSS装備。右側の聖石能力は除外。"
     }
   ]
 }
