@@ -15799,6 +15799,13 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   };
   window.RS_ARRANGE_MENU=arrange;
   arrange();
+  const history=document.querySelector('#updates-modal .manual-body');
+  if(history&&!history.querySelector('[data-menu-update]')){
+    const entry=document.createElement('p');
+    entry.dataset.menuUpdate='true';
+    entry.textContent='2026.11/19　MENU項目の整理、装備一覧の追加';
+    history.prepend(entry);
+  }
   document.querySelectorAll('#manual-modal .manual-body p').forEach(item=>{
     if(/^(SOLO MODE|NORMAL MODE|戦闘力MODE)：/.test(item.textContent.trim()))item.remove();
   });
