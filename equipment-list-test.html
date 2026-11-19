@@ -15820,6 +15820,26 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
     window.RS_LEAVE_EQUIPMENT_LIST?.();
   },true);
 })();
+</script><style>
+#equipment-list-page .equipment-list-sort-icon svg{display:block;width:100%;height:100%}
+</style><script>
+(() => {
+  /* 装備一覧の並び替えアイコンは、既存MODEと同じSVGを使用する。 */
+  const page=document.querySelector('#equipment-list-page');
+  if(!page)return;
+  const replaceSortIcon=()=>{
+    const current=page.querySelector('svg.equipment-list-sort-icon');
+    const source=document.querySelector('#sets .row.sort svg');
+    if(!current||!source)return;
+    const holder=document.createElement('span');
+    holder.className='equipment-list-sort-icon';
+    holder.setAttribute('aria-hidden','true');
+    holder.innerHTML=source.outerHTML;
+    current.replaceWith(holder);
+  };
+  new MutationObserver(replaceSortIcon).observe(page,{childList:true,subtree:true});
+  replaceSortIcon();
+})();
 </script></body></html>
 
 
