@@ -15842,6 +15842,7 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
 })();
 </script><style>
 .power-active #menu-royal-brooch-row,.equipment-list-active #menu-royal-brooch-row{display:none!important}
+#menu-royal-brooch-row span{font-size:11px;white-space:nowrap}
 </style><script>
 (() => {
   const menu=document.querySelector('.menu-body');
@@ -15852,6 +15853,8 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   row.id='menu-royal-brooch-row';
   row.innerHTML='<input id="menu-royal-brooch" type="checkbox"><span>ロイヤルブローチ固定</span>';
   anchor.after(row);
+  const arrangeMenu=window.RS_ARRANGE_MENU;
+  window.RS_ARRANGE_MENU=()=>{arrangeMenu?.();anchor.after(row)};
   const checkbox=row.querySelector('input');
   let locked=false;
   const accessoryLocks=()=>[...document.querySelectorAll('#sets [data-slot-lock="accessory"]')];
@@ -15882,14 +15885,7 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   document.addEventListener('click',event=>{
     if(!locked)return;
     if(event.target.closest('#menu-solo,#menu-all,#menu-power,#menu-equipment-page,#menu-manual,#menu-updates')){release();return}
-    if(event.target.closest('#sets [data-slot-lock="accessory"],#sets [data-slot-off="accessory"]')){
-      event.preventDefault();event.stopImmediatePropagation();
-    }
-  },true);
-  document.addEventListener('change',event=>{
-    if(locked&&event.target.matches('#sets [data-slot="accessory"]')){
-      event.preventDefault();event.stopImmediatePropagation();
-    }
+    if(event.target.closest('#sets [data-slot-lock="accessory"],#sets [data-slot-off="accessory"]'))checkbox.checked=false;
   },true);
 })();
 </script></body></html>
