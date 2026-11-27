@@ -15840,6 +15840,58 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   new MutationObserver(replaceSortIcon).observe(page,{childList:true,subtree:true});
   replaceSortIcon();
 })();
+</script><style>
+.power-active #menu-royal-brooch-row,.equipment-list-active #menu-royal-brooch-row{display:none!important}
+#menu-royal-brooch-row span{font-size:11px;white-space:nowrap}
+</style><script>
+(() => {
+  const menu=document.querySelector('.menu-body');
+  const anchor=document.querySelector('#menu-kagura-on')?.closest('.menu-check');
+  if(!menu||!anchor)return;
+  const row=document.createElement('label');
+  row.className='menu-check';
+  row.id='menu-royal-brooch-row';
+  row.innerHTML='<input id="menu-royal-brooch" type="checkbox"><span>ロイヤルブローチ固定</span>';
+  anchor.after(row);
+  const arrangeMenu=window.RS_ARRANGE_MENU;
+  window.RS_ARRANGE_MENU=()=>{arrangeMenu?.();anchor.after(row)};
+  const checkbox=row.querySelector('input');
+  let locked=false;
+  const accessoryLocks=()=>[...document.querySelectorAll('#sets [data-slot-lock="accessory"]')];
+  function release(){
+    if(!locked)return;
+    locked=false;checkbox.checked=false;
+    const ids=accessoryLocks().map(button=>button.dataset.character);
+    for(const id of ids){
+      const button=document.querySelector('#sets [data-slot-lock="accessory"][data-character="'+id+'"]');
+      if(button?.getAttribute('aria-pressed')==='true')button.click();
+    }
+  }
+  function apply(){
+    const item=window.PowerModeBridge?.inventory()?.find(entry=>entry.name==='ロイヤルブローチ'&&entry.category==='accessory');
+    if(!item){checkbox.checked=false;alert('ロイヤルブローチがDBに見つかりません');return}
+    const ids=accessoryLocks().map(button=>button.dataset.character);
+    for(const id of ids){
+      let lock=document.querySelector('#sets [data-slot-lock="accessory"][data-character="'+id+'"]');
+      if(lock?.getAttribute('aria-pressed')==='true')lock.click();
+      const select=document.querySelector('#sets [data-slot="accessory"][data-character="'+id+'"]');
+      if(!select)continue;
+      select.value=item.uid;
+      select.dispatchEvent(new Event('change',{bubbles:true}));
+      lock=document.querySelector('#sets [data-slot-lock="accessory"][data-character="'+id+'"]');
+      if(lock?.getAttribute('aria-pressed')==='false')lock.click();
+    }
+    locked=true;
+    document.querySelector('#menu-panel').hidden=true;
+    document.querySelector('#menu-button')?.setAttribute('aria-expanded','false');
+  }
+  checkbox.addEventListener('change',()=>checkbox.checked?apply():release());
+  document.addEventListener('click',event=>{
+    if(!locked)return;
+    if(event.target.closest('#menu-solo,#menu-all,#menu-power,#menu-equipment-page,#menu-manual,#menu-updates')){release();return}
+    if(event.target.closest('#sets [data-slot-lock="accessory"],#sets [data-slot-off="accessory"]'))checkbox.checked=false;
+  },true);
+})();
 </script></body></html>
 
 
