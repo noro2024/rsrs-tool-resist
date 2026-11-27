@@ -15861,7 +15861,11 @@ window.RS_COMBAT_STYLE_RESISTANCE_DATA = {
   function release(){
     if(!locked)return;
     locked=false;checkbox.checked=false;
-    accessoryLocks().filter(button=>button.getAttribute('aria-pressed')==='true').forEach(button=>button.click());
+    const ids=accessoryLocks().map(button=>button.dataset.character);
+    for(const id of ids){
+      const button=document.querySelector('#sets [data-slot-lock="accessory"][data-character="'+id+'"]');
+      if(button?.getAttribute('aria-pressed')==='true')button.click();
+    }
   }
   function apply(){
     const item=window.PowerModeBridge?.inventory()?.find(entry=>entry.name==='ロイヤルブローチ'&&entry.category==='accessory');
